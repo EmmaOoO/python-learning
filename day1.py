@@ -1,0 +1,1 @@
+print("Hello, my Python journey starts today.")
